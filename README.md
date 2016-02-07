@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Trello
 
 To start your Phoenix app:
@@ -17,3 +18,7 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Docs: http://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+=======
+# phoenix_trello
+Result of Amazing Tutorial: https://blog.diacode.com/trello-clone-with-phoenix-and-react-pt-1
+>>>>>>> 174eb873313d8dc774d2bf942b2d3315360a1e57
